@@ -12,7 +12,7 @@
   "license": "MIT",
   "devDependencies": {
     "@octokit/rest": "^18.0.3",
-    "@types/cheerio": "^0.22.11",
+    "@types/cheerio": "^0.22.29",
     "@types/lodash": "^4.14.134",
     "@types/node": "^15.0.1",
     "@types/rimraf": "^3.0.0",
